@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🎓 Master’s in Data Science @ American University  
 - 🧬 Background in computational biology → transitioned into Data Science, Machine Learning & building AI Agents 
 - 🌍 Taiwanese, currently in the US
-- 
+  
 ### 📊 Data Scientist | Machine Learning & NLP Engineering Mindset
 I specialize in building scalable data pipelines, training predictive models, and turning messy datasets into automated solutions. I love bridging the gap between complex data analysis and clean, production-ready code.
 
@@ -57,15 +57,6 @@ I specialize in building scalable data pipelines, training predictive models, an
 * **Impact:** Achieved a solid predictive baseline ($R^2 = 0.65$) using 5-fold cross-validation by combining structural data and textual embeddings.
 * **Tech used:** PyTorch, Transformers, Molecular Modeling, Cross-Validation.
 
----
-
-### 📈 GitHub Stats
-
-<!-- This generates a real-time card showing your repository stats automatically -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=violetylin17&show_icons=true&theme=radical&hide_border=true" alt="Violet's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=violetylin17&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
-</p>
 
 ---
 
