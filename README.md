@@ -1,6 +1,7 @@
-## Hi there 👋
+
 
 <!--
+## Hi there 👋
 **violetylin17/violetylin17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -61,8 +62,8 @@ I specialize in building scalable data pipelines, training predictive models, an
 
 <!-- This generates a real-time card showing your repository stats automatically -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VioletYL&show_icons=true&theme=radical&hide_border=true" alt="Violet's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VioletYL&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=violetylin17&show_icons=true&theme=radical&hide_border=true" alt="Violet's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=violetylin17&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
 </p>
 
 ---
