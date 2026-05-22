@@ -14,3 +14,59 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hi there, I'm YuChien(Violet)!
+
+## 💡 About Me
+- 🎓 Master’s in Data Science @ American University  
+- 🧬 Background in computational biology → transitioned into Data Science, Machine Learning & building AI Agents 
+- 🌍 Taiwanese, currently in the US
+- 
+### 📊 Data Scientist | Machine Learning & NLP Engineering Mindset
+I specialize in building scalable data pipelines, training predictive models, and turning messy datasets into automated solutions. I love bridging the gap between complex data analysis and clean, production-ready code.
+
+---
+
+### 🛠️ My Tech Stack & Tools
+
+<!-- Language Badges -->
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+<!-- Frameworks & Data Pipeline Badges -->
+![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/scikit__learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+#### 🔍 1. Large-Scale Automated NLP Pipeline
+* **What it does:** Built an automated text classification pipeline to process over 50,000 text records efficiently using batch API processing.
+* **Impact:** Reduced manual processing time by 60% while optimizing cost efficiency for high-volume text analysis.
+* **Tech used:** Python, NLP, Batch API Processing, Data Pipelines.
+
+#### 🧬 2. Multi-Modal Molecular Property Prediction
+* **What it does:** Developed a multi-modal fusion framework leveraging advanced transformer architectures to predict molecular properties.
+* **Impact:** Achieved a solid predictive baseline ($R^2 = 0.65$) using 5-fold cross-validation by combining structural data and textual embeddings.
+* **Tech used:** PyTorch, Transformers, Molecular Modeling, Cross-Validation.
+
+---
+
+### 📈 GitHub Stats
+
+<!-- This generates a real-time card showing your repository stats automatically -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=VioletYL&show_icons=true&theme=radical&hide_border=true" alt="Violet's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VioletYL&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
+</p>
+
+---
+
+### 📫 Connect with me:
+* 💼 **LinkedIn:** [linkedin.com/in/yuchien170]([https://linkedin.com](https://www.linkedin.com/in/yuchien170/))
+<!-- * 🌐 **Personal Website:** [violetyl.github.io](https://violetyl.github.io) -->
