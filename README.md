@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌍 Taiwanese, currently in the US
+
 -->
 
 # 👋 Hi there, I'm YuChien(Violet)!
@@ -21,7 +23,6 @@ Here are some ideas to get you started:
 ## 💡 About Me
 - 🎓 Master’s in Data Science @ American University  
 - 🧬 Background in computational biology → transitioned into Data Science, Machine Learning & building AI Agents 
-- 🌍 Taiwanese, currently in the US
   
 ### 📊 Data Scientist | Machine Learning & NLP Engineering Mindset
 I specialize in building scalable data pipelines, training predictive models, and turning messy datasets into automated solutions. I love bridging the gap between complex data analysis and clean, production-ready code.
