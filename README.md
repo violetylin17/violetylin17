@@ -58,7 +58,7 @@ I specialize in building scalable data pipelines, training predictive models, an
 
 ### 🚀 Featured Projects
 
-####🛡️ 1. Reddit AI Discourse Analysis
+#### 🛡️ 1. Reddit AI Discourse Analysis
 What it does: Analyzed ~8 billion rows of Reddit comments across 15 AI-related subreddits to track sentiment shifts and engagement patterns around 5 major AI model releases (GPT-4, Claude 2, Claude 3, etc.).
 Impact: Identified distinct behavioral patterns — Short-Term Hype Spikes, Sustained Growth, Neutral Contraction — across 4 community clusters over a 13-month longitudinal window.
 Tech used: PySpark, AWS, Spark ML, NLP, HashingTF, Sentiment Analysis, Data Visualization.
