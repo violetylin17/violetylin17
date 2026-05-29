@@ -35,7 +35,7 @@ I specialize in building scalable data pipelines, training predictive models, an
 
 ### 📫 Connect with me:
 * 💼 **LinkedIn:** [linkedin.com/in/yuchien170]([https://linkedin.com](https://www.linkedin.com/in/yuchien170/))
-* 🌐 **Personal Website:** [violetyl.github.io](violetylin17.github.io/Portfolio/)
+* 🌐 **Personal Website:** [violetyl.github.io]([violetylin17.github.io/Portfolio/](https://violetylin17.github.io/Portfolio/))
 
 ---
 
